@@ -1,9 +1,9 @@
-SEH over VEH v0.1
+# SEH over VEH v0.1
 =====================
 
 Implementation of Structured Exceptions Handling inside Vectored Exception Handler
 For x86-platforms
-Usage: 
+## Usage: 
 1. Include this file
 2. Call `EnableSEHoverVEH()` (once)
 
